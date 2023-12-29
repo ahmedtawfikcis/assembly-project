@@ -1,1 +1,1 @@
-"# assembly-project" 
+The idea is that the computer is guess a letter, and I am trying to guess what this letter that he stored, and I have only 3 attempts. If I answered correctly, then fine, but if he made a mistake all three times, he would get me a out of guesses message, and tell me what is this letter that he stored .. using assembly language.
